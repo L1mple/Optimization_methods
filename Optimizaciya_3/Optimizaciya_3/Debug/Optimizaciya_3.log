@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\L1mpl\source\repos\Optimizaciya_3\Optimizaciya_3\Source.cpp(395,13): warning C4101: 'F_new': unreferenced local variable
+C:\Users\L1mpl\source\repos\Optimizaciya_3\Optimizaciya_3\Source.cpp(501,13): warning C4101: 'F_new': unreferenced local variable
+  Optimizaciya_3.vcxproj -> C:\Users\L1mpl\source\repos\Optimizaciya_3\Debug\Optimizaciya_3.exe
